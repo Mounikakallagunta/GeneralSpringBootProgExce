@@ -28,8 +28,8 @@
 	
 	<repositories>
           <repository>
-          <id>artifact</id>
-          <url>https://pkgs.dev.azure.com/Mounikamn456/a3bee587-09c8-45f9-b23d-62e455ba4f4d/_packaging/artifact/maven/v1</url>
+          <id>springfeed</id>
+          <url>https://pkgs.dev.azure.com/Mounikamn456/a3bee587-09c8-45f9-b23d-62e455ba4f4d/_packaging/springfeed/maven/v1</url>
           <releases>
           <enabled>true</enabled>
           </releases>
@@ -40,8 +40,8 @@
         </repositories>
 	<distributionManagement>
 	  <repository>
-          <id>artifact</id>
-          <url>https://pkgs.dev.azure.com/Mounikamn456/a3bee587-09c8-45f9-b23d-62e455ba4f4d/_packaging/artifact/maven/v1</url>
+          <id>springfeed</id>
+          <url>https://pkgs.dev.azure.com/Mounikamn456/a3bee587-09c8-45f9-b23d-62e455ba4f4d/_packaging/springfeed/maven/v1</url>
           <releases>
           <enabled>true</enabled>
           </releases>
